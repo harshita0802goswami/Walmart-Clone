@@ -1,0 +1,79 @@
+#head{
+color: blue;
+}
+#main{
+    width: 60%;
+    height: 500px;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+button{
+    color: #fff;
+    border: none;
+    background-color: #0071dc;
+    width: 28%;
+    height: 60px;
+    font-size: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+}
+
+/* #main div{
+    width: 8%;
+    height: 11.25%;
+    border-radius: 50%;
+    background-color:#008000;
+    color: white;
+    text-align: center;
+    margin: auto;
+    font-size: 50px;
+    padding-top: 15px;
+    padding-left: 3px;
+    margin-top: 70px;
+} */
+#thanks{
+    height: 100px;
+    width: 100%;
+    /* border: 2px solid red; */
+    background-color: rgb(232, 242, 242);
+    margin-top: 10%;
+}
+.fa-solid{
+color: green;
+margin-left: 3%;
+margin-top: 2%;
+font-size: 50px; 
+}
+#regards{
+    margin-top: px;
+    margin-left: 15%;
+}
+
+#token{
+    padding: 30px;
+    /* border: 2px solid red; */
+    margin-left: 500px;
+
+}
+/* #btndiv{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+#buttonContinue{
+    width: 30%;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #0071dc;
+    border: #0071dc;
+    color: #fff;
+    font-weight: bolder;
+    margin-left: -8%;
+    
+} */
