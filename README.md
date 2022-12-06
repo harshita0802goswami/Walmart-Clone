@@ -6,6 +6,8 @@
 - Searchbar implementation , Add to Cart , Checkout Page, 
 - Getting the total price and proceeding to the payment page.
 
+NOTE : To view the product page, search 'soft drinks' in search bar of Landing Page
+
 ## 🛠 Tech Stacks
 HTML , CSS , JavaScript and JSON
 
